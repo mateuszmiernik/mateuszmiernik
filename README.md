@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mateusz Miernik
 
-🔧 **Appian Developer** with hands-on experience building business applications using the **Appian BPM** platform, integrating with **Oracle SQL** databases, and automating deployment processes. In my free time, I develop **full-stack projects** using **HTML, CSS, JavaScript, React, Node.js, and MongoDB**.
+🔧 **Appian Developer** with hands-on experience building business applications using the **Appian BPM** platform, integrating with **Oracle SQL** databases, and automating deployment processes. In my free time, I develop **full-stack projects** using **HTML, CSS/Tailwind, JavaScript, React, Node.js, and MongoDB**.
 
 ---
 
@@ -27,20 +27,15 @@
 - `Python`
 
 ### In my personal projects:
-- Frontend: `HTML`, `CSS`, `JavaScript`, `React`
+- Frontend: `HTML`, `CSSCSS/Tailwind CSS`, `JavaScript`, `React`
 - Backend: `Node.js`, `Express`, `MongoDB`
+- Scripting & Automation: `Python` 
 - Other tools: `Git`, `REST API`, `Postman`
-
----
-
-## 📌 Featured Projects
-
-Check out my **pinned repositories** for selected projects!
 
 ---
 
 ## 📫 Get in touch
 
 - 📧 Email: **mateusz.miernik7@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/mateusz-miernik-264012109/
+- 💼 LinkedIn: **https://www.linkedin.com/in/mateusz-miernik-264012109/**
 
