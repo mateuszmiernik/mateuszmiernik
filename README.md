@@ -27,7 +27,7 @@
 - `Python`
 
 ### In my personal projects:
-- Frontend: `HTML`, `CSSCSS/Tailwind CSS`, `JavaScript`, `React`
+- Frontend: `HTML`, `CSS/Tailwind CSS`, `JavaScript`, `React`
 - Backend: `Node.js`, `Express`, `MongoDB`
 - Scripting & Automation: `Python` 
 - Other tools: `Git`, `REST API`, `Postman`
